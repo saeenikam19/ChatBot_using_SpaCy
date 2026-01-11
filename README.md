@@ -2,7 +2,6 @@
 
 This project is a basic customer support chatbot built using Natural Language Processing (NLP) concepts in Python.
 It demonstrates how to preprocess text, extract keywords, and generate responses using NLTK and an improved version using spaCy.
-
 This project is beginner-friendly and suitable for students, internships, and NLP fundamentals practice.
 
 ## 📌 Features
