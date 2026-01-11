@@ -7,23 +7,14 @@ This project is beginner-friendly and suitable for students, internships, and NL
 ## 📌 Features
 
 Text preprocessing (tokenization, stopword removal, lemmatization)
-
 Rule-based response system
-
 Supports common customer queries:
-
 Greeting
-
 Working hours
-
 Contact details
-
 Office location
-
 Refund policy
-
 Improved accuracy using spaCy
-
 Simple command-line chatbot
 
 ## 🧠 Technologies Used
