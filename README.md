@@ -25,9 +25,9 @@ Simple command-line chatbot
 ## 📂 Project Structure
 nltk-chatbot/
 
-├── step7_spacy_customer_chatbot.py        # spaCy-based improved chatbot
-├── requirements.txt
-└── README.md
+    ├── step7_spacy_customer_chatbot.py        # spaCy-based improved chatbot
+    ├── requirements.txt
+    └── README.md
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone the repository
