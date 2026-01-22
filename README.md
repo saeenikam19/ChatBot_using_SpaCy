@@ -38,6 +38,7 @@ Simple command-line chatbot
     Python
     spaCy
 
+
 ## 📂 Project Structure
 nltk-chatbot/
 
@@ -51,7 +52,7 @@ git clone https://github.com/saeenikam19/ChatBot_using_SpaCy.git
 
 2️⃣ Create virtual environment (optional but recommended)
 python -m venv venv
-venv\Scripts\activate   # Windows
+venv\Scripts\activate   
 
 📦 Install Required Libraries
 pip install -r requirements.txt
