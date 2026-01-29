@@ -13,7 +13,6 @@ Internship Period: 07 January 2026 - 18 February 2026
 Intern ID: CTIS1452
 
 
-
 ## 🤖 Customer Support Chatbot (NLTK & spaCy)
 
 This project is a basic customer support chatbot built using Natural Language Processing (NLP) concepts in Python.
